@@ -46,7 +46,7 @@ services:
     networks:
       - frontend  
 
-volumes: 
+volumes:    
   db:
 
 networks:
